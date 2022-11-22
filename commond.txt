@@ -1,0 +1,21 @@
+mkdir test create a folder test name
+cp ~/Documents/git.odt ~/Documents/test/
+cp ~/Documents/ssh.odt ~/Documents/test/ // copy data one folder to another folder
+cd test
+ls
+gitclone url
+ls
+cd git-and -git-hub esse git vala commnd dete hai
+ls
+git status
+cp ~/Documents/git.odt ~/Documents/test/
+cp ~/Documents/ssh.odt ~/Documents/test
+cd test cd ..
+ls
+mv git.odt ssh.odt git-and-git-hub
+ls
+cd git-and-git-hub
+git status
+git add ssh.out
+git commit -m 
+git push
